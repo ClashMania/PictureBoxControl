@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Documents\GabrielCondric\PictureBoxControl\bin\Debug\PictureBoxControl.exe.config
+C:\Users\Ucenik\Documents\GabrielCondric\PictureBoxControl\bin\Debug\PictureBoxControl.exe
+C:\Users\Ucenik\Documents\GabrielCondric\PictureBoxControl\bin\Debug\PictureBoxControl.pdb
+C:\Users\Ucenik\Documents\GabrielCondric\PictureBoxControl\obj\Debug\PictureBoxControl.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondric\PictureBoxControl\obj\Debug\PictureBoxControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondric\PictureBoxControl\obj\Debug\PictureBoxControl.Form1.resources
+C:\Users\Ucenik\Documents\GabrielCondric\PictureBoxControl\obj\Debug\PictureBoxControl.Properties.Resources.resources
+C:\Users\Ucenik\Documents\GabrielCondric\PictureBoxControl\obj\Debug\PictureBoxControl.csproj.GenerateResource.cache
+C:\Users\Ucenik\Documents\GabrielCondric\PictureBoxControl\obj\Debug\PictureBoxControl.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondric\PictureBoxControl\obj\Debug\PictureBoxControl.exe
+C:\Users\Ucenik\Documents\GabrielCondric\PictureBoxControl\obj\Debug\PictureBoxControl.pdb
